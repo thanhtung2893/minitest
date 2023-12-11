@@ -1,0 +1,18 @@
+.body {
+margin-left: 500px;
+
+}
+
+
+button {
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin-left: 2px;
+  font-size: 20px;
+}
+input{
+  margin-bottom: 20px;
+  margin-left: 2px;
+  font-size: 16px;
+}
